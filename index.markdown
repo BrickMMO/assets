@@ -9,6 +9,11 @@ This repo stores a directory of [BrickMMO](http://brickmmo.com/) digital assets.
 Website: [https://brickmmo.com](https://brickmmo.com)  
 Repo: [https://github.com/BrickMMO/website](https://github.com/BrickMMO/website)
 
+## Branding
+
+Website: [https://brickmmo.github.io/branding/](https://brickmmo.github.io/branding/)
+Repo: [https://github.com/BrickMMO/branding](https://github.com/BrickMMO/branding)
+
 ## Flow
 
 Website: [https://flow.brickmmo.com/](https://flow.brickmmo.com/)
