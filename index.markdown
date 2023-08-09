@@ -11,7 +11,7 @@ Repo: [https://github.com/BrickMMO/website](https://github.com/BrickMMO/website)
 
 ## Branding
 
-Website: [https://brickmmo.github.io/branding/](https://brickmmo.github.io/branding/)
+Website: [https://branding.brickmmo.com/](https://branding.brickmmo.com/)
 Repo: [https://github.com/BrickMMO/branding](https://github.com/BrickMMO/branding)
 
 ## Flow
@@ -40,4 +40,7 @@ Repo: [https://github.com/BrickMMO/hackathon-system](https://github.com/BrickMMO
 
 Repo: [https://github.com/BrickMMO/media](https://github.com/BrickMMO/media)
 
+## Coding Guidelines
 
+Tidy: [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)
+Repo: [https://github.com/BrickMMO/tidy](https://github.com/BrickMMO/tidy)
