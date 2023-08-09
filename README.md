@@ -6,7 +6,7 @@ A list of [BrickMMO](http://brickmmo.com/) digital assets.
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
 
 > This repo is available to view at  
-> [https://tasks.brickmmo.com](https://tasks.brickmmo.com)
+> [https://brickmmo.github.io/assets/](https://brickmmo.github.io/assets/)
 
 ---
 
@@ -20,7 +20,7 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 
 ## Repo Resources
 
-- [BrickMMO Tasks](https://tasks.brickmmo.ca)
+- [BrickMMO Assets](https://brickmmo.github.io/assets/)
 - [GitHub - About README.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Markdown](https://www.markdownguide.org/)
 
