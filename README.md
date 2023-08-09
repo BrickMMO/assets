@@ -1,0 +1,2 @@
+# assets
+BrickMMO assets directory
