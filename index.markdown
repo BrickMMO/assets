@@ -44,3 +44,9 @@ Repo: [https://github.com/BrickMMO/media](https://github.com/BrickMMO/media)
 
 Tidy: [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)
 Repo: [https://github.com/BrickMMO/tidy](https://github.com/BrickMMO/tidy)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
