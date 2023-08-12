@@ -45,6 +45,11 @@ Repo: [https://github.com/BrickMMO/media](https://github.com/BrickMMO/media)
 Tidy: [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)  
 Repo: [https://github.com/BrickMMO/tidy](https://github.com/BrickMMO/tidy)  
 
+### Non BrickMMO Coding Guidelines
+
+_readme: [https://readme.codeadam.ca](https://readme.codeadam.ca)  
+Pseudocode: [https://pseudocode.codeadam.ca](https://pseudocode.codeadam.ca)  
+
 ---
 
 <a href="https://brickmmo.com">
