@@ -38,6 +38,7 @@ Repo: [https://github.com/BrickMMO/hackathon-system](https://github.com/BrickMMO
 
 ## Media
 
+Website: [https://brickmmo.github.io/media/](https://brickmmo.github.io/media/)
 Repo: [https://github.com/BrickMMO/media](https://github.com/BrickMMO/media)  
 
 ## Coding Guidelines
