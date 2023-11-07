@@ -25,6 +25,11 @@ Repo: [https://github.com/BrickMMO/flow-about](https://github.com/BrickMMO/flow-
 Tasks: [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)  
 Repo: [https://github.com/BrickMMO/tasks](https://github.com/BrickMMO/tasks)  
 
+## GPS
+
+Website: [https://brickmmo.github.io/gps-about](https://brickmmo.github.io/gps-about)
+Repo: [https://github.com/BrickMMO/gps-about](https://github.com/BrickMMO/gps-about)
+
 ## Hackathons
 
 Radio Hackathon: [https://brickmmo.github.io/hackathon-radio/](https://brickmmo.github.io/hackathon-radio/)  
@@ -49,7 +54,9 @@ Repo: [https://github.com/BrickMMO/tidy](https://github.com/BrickMMO/tidy)
 ### Non BrickMMO Coding Guidelines
 
 _readme: [https://readme.codeadam.ca](https://readme.codeadam.ca)  
-Pseudocode: [https://pseudocode.codeadam.ca](https://pseudocode.codeadam.ca)  
+Pseudocode: [https://pseudocode.codeadam.ca](https://pseudocode.codeadam.ca)
+
+
 
 ---
 
