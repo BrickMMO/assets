@@ -20,8 +20,11 @@ Glyphs: [https://glyphs.brickmmo.com/](https://glyphs.brickmmo.com/)
 Maps: [https://maps.brickmmo.com/](https://maps.brickmmo.com/)  
 Media: [https://media.brickmmo.com/](https://media.brickmmo.com/)  
 Placekit: [https://placekit.brickmmo.com/](https://placekit.brickmmo.com/)  
+QR: [https://qr.brickmmo.com/](https://qr.brickmmo.com/)  
 Search: [https://search.brickmmo.com/](https://search.brickmmo.com/)  
-Search: [https://videokit.brickmmo.com/](https://videokit.brickmmo.com/)  
+Stores: [https://stores.brickmmo.com/](https://stores.brickmmo.com/)  
+Videokit: [https://videokit.brickmmo.com/](https://videokit.brickmmo.com/)  
+
 
 ## Markdown Websites
 
