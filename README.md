@@ -25,5 +25,5 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 - [Markdown](https://www.markdownguide.org/)
 
 <a href="https://brickmmo.com">
-<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
+<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="200">
 </a>
