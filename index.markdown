@@ -23,7 +23,7 @@ Watts Wrong: [https://wattswrong.brickmmo.com/](https://wattswrong.brickmmo.com/
 ### CodeAdam Coding Guidelines
 
 _readme: [https://readme.codeadam.ca](https://readme.codeadam.ca)  
-Pseudocode: [https://pseudocode.codeadam.ca](https://pseudocode.codeadam.ca)
+Pseudocode: [https://pseudocode.codeadam.ca](https://pseudocode.codeadam.ca)  
 Tidy: [https://tidy.codeadam.ca/](https://tidy.codeadam.ca/)  
 
 ---
