@@ -56,10 +56,10 @@ Repo: [https://github.com/BrickMMO/tidy](https://github.com/BrickMMO/tidy)
 _readme: [https://readme.codeadam.ca](https://readme.codeadam.ca)  
 Pseudocode: [https://pseudocode.codeadam.ca](https://pseudocode.codeadam.ca)
 
-
-
 ---
 
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
 </a>
+
+<script src="https://cdn.brickmmo.com/bar@1.0.0/bar.js"></script>
