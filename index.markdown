@@ -8,9 +8,17 @@ This repo stores a directory of [BrickMMO](http://brickmmo.com/) digital assets.
 
 Website: [https://brickmmo.com](https://brickmmo.com)  
 
-## Branding
+## Applications
 
-Website: [https://branding.brickmmo.com/](https://branding.brickmmo.com/)  
+Email List: [https://list.brickmmo.com/](https://list.brickmmo.com/)  
+Maps: [https://maps.brickmmo.com/](https://maps.brickmmo.com/)  
+Search: [https://search.brickmmo.com/](https://search.brickmmo.com/)  
+
+## Masrkdown Websites
+
+Assets: [https://assets.brickmmo.com/](https://assets.brickmmo.com/)  
+Branding Guidelines: [https://branding.brickmmo.com/](https://branding.brickmmo.com/)  
+CDN: [https://cdn.brickmmo.com/](https://cdn.brickmmo.com/)  
 
 ## In World Websites
 
