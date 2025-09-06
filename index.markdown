@@ -61,17 +61,17 @@ Tidy: [https://tidy.codeadam.ca/](https://tidy.codeadam.ca/)
 
 ## Servers
 
-Alpha: [https://alpha.faker.ca](https://alpha.faker.ca)
-Bravo: [https://bravo.faker.ca](https://bravo.faker.ca)
-Charlie: [https://charlie.faker.ca](https://charlie.faker.ca)
-Delta: [https://delta.faker.ca](https://delta.faker.ca)
+Alpha: [https://alpha.faker.ca](https://alpha.faker.ca)  
+Bravo: [https://bravo.faker.ca](https://bravo.faker.ca)  
+Charlie: [https://charlie.faker.ca](https://charlie.faker.ca)  
+Delta: [https://delta.faker.ca](https://delta.faker.ca)  
 
 ## Loot Nodes
 
-Alpha: [https://alpha.loot.brickmmo.com](https://alpha.loot.brickmmo.com)
-Bravo: [https://bravo.loot.brickmmo.com](https://bravo.loot.brickmmo.com)
-Charlie: [https://charlie.loot.brickmmo.com](https://charlie.loot.brickmmo.com)
-Delta: [https://delta.loot.brickmmo.com](https://delta.loot.brickmmo.com)
+Alpha: [https://alpha.loot.brickmmo.com](https://alpha.loot.brickmmo.com)  
+Bravo: [https://bravo.loot.brickmmo.com](https://bravo.loot.brickmmo.com)  
+Charlie: [https://charlie.loot.brickmmo.com](https://charlie.loot.brickmmo.com)  
+Delta: [https://delta.loot.brickmmo.com](https://delta.loot.brickmmo.com)  
 
 ---
 
