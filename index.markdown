@@ -83,8 +83,7 @@ Delta: [https://delta.loot.brickmmo.com](https://delta.loot.brickmmo.com)
 
 <script 
     src="https://cdn.brickmmo.com/bar@1.1.0/bar.js"
-    data-local="true"
-    data-sso=""
-    data-site="http://local.sso.brickmmo.com:7777"
-    data-api="http://local.api.brickmmo.com:7777"
+    data-console="false"
+    data-local="false"
+    data-https="true"
 ></script>
