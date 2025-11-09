@@ -10,7 +10,7 @@ Website: [https://brickmmo.com](https://brickmmo.com)
 
 ## Applications
 
-Account: [https://account.brickmmo.com/](https://account.brickmmo.com/)  
+
 Applications: [https://applications.brickmmo.com/](https://applications.brickmmo.com/)  
 Bricksum: [https://bricksum.brickmmo.com/](https://bricksum.brickmmo.com/)  
 Colours: [https://colours.brickmmo.com/](https://colours.brickmmo.com/)  
@@ -30,6 +30,7 @@ Pixelate: [https://pixelate.brickmmo.com/](https://pixelate.brickmmo.com/)
 Placekit: [https://placekit.brickmmo.com/](https://placekit.brickmmo.com/)  
 QR: [https://qr.brickmmo.com/](https://qr.brickmmo.com/)  
 Search: [https://search.brickmmo.com/](https://search.brickmmo.com/)  
+SSO: [https://sso.brickmmo.com/](https://sso.brickmmo.com/)  
 Stats: [https://stats.brickmmo.com/](https://stats.brickmmo.com/)  
 Stores: [https://stores.brickmmo.com/](https://stores.brickmmo.com/)  
 Uptime: [https://uptime.brickmmo.com/](https://uptime.brickmmo.com/)  
