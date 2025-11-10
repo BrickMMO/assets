@@ -60,14 +60,14 @@ _readme: [https://readme.codeadam.ca](https://readme.codeadam.ca)
 Pseudocode: [https://pseudocode.codeadam.ca](https://pseudocode.codeadam.ca)  
 Tidy: [https://tidy.codeadam.ca/](https://tidy.codeadam.ca/)  
 
-## Servers
+## Serverss
 
 Alpha: [https://alpha.faker.ca](https://alpha.faker.ca)  
 Bravo: [https://bravo.faker.ca](https://bravo.faker.ca)  
 Charlie: [https://charlie.faker.ca](https://charlie.faker.ca)  
 Delta: [https://delta.faker.ca](https://delta.faker.ca)  
 
-## Loot Nodes
+## Loot Noddes
 
 Alpha: [https://alpha.loot.brickmmo.com](https://alpha.loot.brickmmo.com)  
 Bravo: [https://bravo.loot.brickmmo.com](https://bravo.loot.brickmmo.com)  
