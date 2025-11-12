@@ -89,4 +89,4 @@ Delta: [https://delta.loot.brickmmo.com](https://delta.loot.brickmmo.com)
     data-https="true"
 ></script>
 
-<script src="brickmmo-stats.infinityfree.me/BrickMMO_stats-v1/tracker.js" data-asset-id="5"></script>
+<script src="http://brickmmo-stats.infinityfree.me/tracker.js" data-asset-id="5"></script>
