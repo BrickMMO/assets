@@ -67,7 +67,7 @@ Bravo: [https://bravo.faker.ca](https://bravo.faker.ca)
 Charlie: [https://charlie.faker.ca](https://charlie.faker.ca)  
 Delta: [https://delta.faker.ca](https://delta.faker.ca)  
 
-## Loot Noddes
+## Loot Nodes
 
 Alpha: [https://alpha.loot.brickmmo.com](https://alpha.loot.brickmmo.com)  
 Bravo: [https://bravo.loot.brickmmo.com](https://bravo.loot.brickmmo.com)  
