@@ -60,7 +60,7 @@ _readme: [https://readme.codeadam.ca](https://readme.codeadam.ca)
 Pseudocode: [https://pseudocode.codeadam.ca](https://pseudocode.codeadam.ca)  
 Tidy: [https://tidy.codeadam.ca/](https://tidy.codeadam.ca/)  
 
-## Serverss
+## Servers
 
 Alpha: [https://alpha.faker.ca](https://alpha.faker.ca)  
 Bravo: [https://bravo.faker.ca](https://bravo.faker.ca)  
